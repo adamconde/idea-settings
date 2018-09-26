@@ -1,0 +1,27 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="alwaysCollectCodeCoverage" value="true" />
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Dev1" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
+          <option name="username" value="aconde@sequenomcmm.com.dev1" />
+        </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Dev2" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
+          <option name="username" value="aconde@sequenomcmm.com.dev2" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
+    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="1" />
+    <option name="sfdxExecutablePath" value="C:/Program Files/sfdx/bin/sfdx.exe" />
+    <option name="sfdxPushOnSave" value="true" />
+  </component>
+</application>
