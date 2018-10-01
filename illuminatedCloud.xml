@@ -1,13 +1,13 @@
 <application>
   <component name="IlluminatedCloudSettings">
-    <option name="alwaysCollectCodeCoverage" value="true" />
     <option name="connectionConfigs">
       <list>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="Dev1" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
-          <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
+          <option name="password" value="dff9dfcbdfc4dfdedfcbdfe8dfcbdfd8dfc8dfcbdfd8dfcbdf8bdfeadf89" />
+          <option name="securityToken" value="dff9dffedfd2dfc8dfd8dfc0dffbdfd8dfefdfc8dfe4dfd2dfc5dfe0df9cdfe3dff0dfc9dfe3dfdcdff3df9cdfd0df9f" />
           <option name="username" value="aconde@sequenomcmm.com.dev1" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
@@ -15,21 +15,16 @@
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
           <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
+          <option name="securityToken" value="dffbdfc2df99dfefdf9cdfe3df9bdfffdfcedff9dff9dff8dfcfdff0dfc7dfcedff2df99dfc8dfd8dfc7dfe1dfc0dfd8dfcb" />
           <option name="username" value="aconde@sequenomcmm.com.dev2" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
-          <option name="connectionName" value="Dev3" />
-          <option name="loginUrl" value="https://test.salesforce.com/" />
-          <option name="organizationType" value="SANDBOX" />
-          <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
-          <option name="username" value="aconde@sequenomcmm.com.dev3" />
+          <option name="connectionName" value="New Connection" />
         </IlluminatedCloudConnectionConfig>
       </list>
     </option>
     <option name="promptOverrideSaveAllAction" value="false" />
-    <option name="selectedConnectionIndex" value="4" />
-    <option name="selectedTabIndex" value="3" />
-    <option name="sfdxExecutablePath" value="C:/Program Files/sfdx/bin/sfdx.exe" />
-    <option name="sfdxPushOnSave" value="true" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="1" />
   </component>
 </application>
