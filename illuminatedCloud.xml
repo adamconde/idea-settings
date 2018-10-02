@@ -16,6 +16,7 @@
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
           <option name="password" value="dff9dfcbdfc4dfe6dfe5df8bdfeadf89" />
+          <option name="securityToken" value="dffbdfc2df99dfefdf9cdfe3df9bdfffdfcedff9dff9dff8dfcfdff0dfc7dfcedff2df99dfc8dfd8dfc7dfe1dfc0dfd8dfcb" />
           <option name="username" value="aconde@sequenomcmm.com.dev2" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
