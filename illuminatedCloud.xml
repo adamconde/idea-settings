@@ -19,6 +19,11 @@
           <option name="username" value="adamconde@playful-otter-vemau3.com" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Production" />
+          <option name="password" value="dffbdfebdfe1df93dfdfdffedfdedfeedfeddfccdfc7df9e" />
+          <option name="username" value="aconde@biocom.org" />
+        </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="SD" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
@@ -29,9 +34,9 @@
       </list>
     </option>
     <option name="promptOverrideSaveAllAction" value="false" />
-    <option name="selectedConnectionIndex" value="2" />
-    <option name="selectedTabIndex" value="1" />
-    <option name="sfdxExecutablePath" value="C:/Program Files/sfdx/bin/sfdx.exe" />
+    <option name="selectedConnectionIndex" value="3" />
+    <option name="selectedTabIndex" value="3" />
+    <option name="sfdxExecutablePath" value="C:/Program Files/Salesforce CLI/bin/sfdx.cmd" />
     <option name="sfdxPushOnSave" value="true" />
   </component>
 </application>
