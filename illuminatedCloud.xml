@@ -35,7 +35,7 @@
     </option>
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="5" />
-    <option name="selectedTabIndex" value="3" />
+    <option name="selectedTabIndex" value="4" />
     <option name="sfdxExecutablePath" value="C:/Program Files/Salesforce CLI/bin/sfdx.cmd" />
     <option name="sfdxPushOnSave" value="true" />
   </component>
