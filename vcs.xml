@@ -10,8 +10,12 @@
           <option name="url" value="git@bitbucket.org:sequenomit/sfdcdeploy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/biocom-dev/Salesforce/Sfdcdeploy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Source\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\" />
   </component>
 </application>
