@@ -5,6 +5,7 @@
       <list>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="AC" />
+          <option name="connectionType" value="MDAPI" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
           <option name="password" value="dfd8dfefdfdbdfe2dfdfdfe7df9ddfcbdfd8dfccdfdedfdbdf8b" />
@@ -13,6 +14,7 @@
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="Lightning Trailhead" />
+          <option name="connectionType" value="MDAPI" />
           <option name="organizationType" value="DEVELOPMENT" />
           <option name="password" value="df9edfdddfe4dfffdfe1dfcedfefdfd8dfd2dfdbdff8dfc3" />
           <option name="securityToken" value="dfe2dffedfefdf99dfccdffedfcddff2dfcfdf9cdfd9dfd3dfdedfe6dfd9df92dfeddfdddfc2dfc1dfffdfd2dfdadff8dffe" />
@@ -20,11 +22,13 @@
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="Production" />
+          <option name="connectionType" value="MDAPI" />
           <option name="password" value="dffbdfebdfe1df93dfdfdffedfdedfeedfeddfccdfc7df9e" />
           <option name="username" value="aconde@biocom.org" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="SD" />
+          <option name="connectionType" value="MDAPI" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
           <option name="password" value="dffbdfebdfe1df93dfdfdffedfdedfeedfeddfccdfc7df9e" />
