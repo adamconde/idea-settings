@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="sandbox_template" type="PLAIN_TEXT" />
-      <mapping ext="prod_template" type="XML" />
-    </extensionMap>
-  </component>
-</application>
