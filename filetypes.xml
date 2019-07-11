@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="resource" type="ARCHIVE" />
+      <removed_mapping ext="resource" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
