@@ -8,8 +8,6 @@
           <option name="connectionType" value="MDAPI" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
-          <option name="password" value="dfd8dfefdfdbdfe2dfdfdfe7df9ddfcbdfd8dfccdfdedfdbdf8b" />
-          <option name="securityToken" value="dfc1dffadfffdfd8dffbdff2df92dfc4dfe1dfe6dfd0df98dffcdfdadf98dfc2dfc2df9adffbdfe9dfdddfc9dfc0dffadff9" />
           <option name="username" value="aconde@biocom.org.ac" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
@@ -32,14 +30,11 @@
           <option name="connectionName" value="Lightning Trailhead" />
           <option name="connectionType" value="MDAPI" />
           <option name="organizationType" value="DEVELOPMENT" />
-          <option name="password" value="df9edfdddfe4dfffdfe1dfcedfefdfd8dfd2dfdbdff8dfc3" />
-          <option name="securityToken" value="dfe2dffedfefdf99dfccdffedfcddff2dfcfdf9cdfd9dfd3dfdedfe6dfd9df92dfeddfdddfc2dfc1dfffdfd2dfdadff8dffe" />
           <option name="username" value="adamconde@playful-otter-vemau3.com" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="Production" />
           <option name="connectionType" value="MDAPI" />
-          <option name="password" value="dffbdfebdfe1df93dfdfdffedfdedfeedfeddfccdfc7df9e" />
           <option name="username" value="aconde@biocom.org" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
@@ -47,8 +42,6 @@
           <option name="connectionType" value="MDAPI" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
-          <option name="password" value="dffbdfebdfe1df93dfdfdffedfdedfeedfeddfccdfc7df9e" />
-          <option name="securityToken" value="dfc6dff0dfccdfc1dfeddfcddfe2dfcedfe0df9adffadfe6df99dfe7dfc3dfebdfe8dfe9dfcddfc1dfe4dfcfdfdadfe3dfc2" />
           <option name="username" value="aconde@biocom.org.sd" />
         </IlluminatedCloudConnectionConfig>
         <IlluminatedCloudConnectionConfig>
