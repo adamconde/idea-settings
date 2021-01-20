@@ -1,0 +1,39 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="alwaysCollectCodeCoverage" value="true" />
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="AC" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="username" value="aconde@biocom.org.ac" />
+        </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Lightning Trailhead" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="organizationType" value="DEVELOPMENT" />
+          <option name="username" value="adamconde@playful-otter-vemau3.com" />
+        </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Production" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="username" value="aconde@biocom.org" />
+        </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="SD" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="username" value="aconde@biocom.org.sd" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
+    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="3" />
+    <option name="selectedTabIndex" value="2" />
+    <option name="sfdxPushOnSave" value="true" />
+    <option name="sortPackageXmlEntries" value="true" />
+  </component>
+</application>
